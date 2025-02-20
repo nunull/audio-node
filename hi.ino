@@ -8,7 +8,9 @@
 // 2. Select "ESP32-S3-Box" as the board
 //
 // If upload does not work, try holding BOOT, pressing RST briefly and release
-// BOOT, then try the upload again
+// BOOT, then try the upload again.
+//
+// Connect a speaker to the board.
 
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
