@@ -1,0 +1,6 @@
+build/
+sdkconfig
+sdkconfig.ci
+sdkconfig.old
+managed_components
+.DS_Store
