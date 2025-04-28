@@ -1,8 +1,12 @@
 # audio-node
 
-## hi.ino
+## hi
 
 A basic Arduino example showcasing i2s throughput and LED blinking.
+
+## hi-aat
+
+A basic Arduino example using [Arduino Audio Tools](https://github.com/pschatzmann/arduino-audio-tools)
 
 ## uac
 
